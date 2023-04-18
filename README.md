@@ -25,6 +25,8 @@ else
 ## Output 1:
 ![image](https://user-images.githubusercontent.com/93434149/232670139-3abe081d-1ab6-4521-b776-433e301e3f5d.png)
 ## Output 2:
+![image](https://user-images.githubusercontent.com/93434149/232684731-2a86cfdc-32c6-4656-8b83-e7bd2c0ddd23.png)
+
 
 ## 2. Compare the values of myAge and yourAge using if … else. Based on the comparison and log the result to console stating who is older (me or you). Use prompt(“Enter your age:”) to get the age as input.
 
@@ -48,8 +50,8 @@ else
 }
 ```
 ## Output 1:
+![image](https://user-images.githubusercontent.com/93434149/232684925-544aeb96-cda8-4975-b6b7-011502f56862.png)
 
-## Output 2:
 
 ## 3. Even numbers are divisible by 2 and the remainder is zero. How do you check, if a number is even or not using JavaScript?
 
@@ -71,6 +73,13 @@ else
 }
 ```
 ## Output 1:
+![image](https://user-images.githubusercontent.com/93434149/232685036-ced9a900-ce9e-47e4-8b4c-88808968bdd8.png)
+
 
 ## Output 2:
+![image](https://user-images.githubusercontent.com/93434149/232685094-c2583105-e229-48c5-af21-d3f688599417.png)
+ 
+ ## Github link:
+ ```
+ ```
 
